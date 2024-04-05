@@ -1,5 +1,13 @@
-# Backup and restore local storage buttons
+# Dr. Software Prescription Generator
 
-Bookmarklets for backup and restore of [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/LocalStorage) of a webpage.
+A Revolutionary App, Speacially builted for doctors for their Automation in presciption Writing
 
-### → [Live app](https://todvora.github.io/localstorage-backup/)
+Current features of this website is:-
+
+1. Store Patient Info
+2. Create Backup for Previous Entries, also Backup can be fetched Easily
+3. Easy to use, More feature with less overwhelming UI
+4. PDF editing for correction and Print PDF option
+5. Can Enter Custom medicine and save it for further usage
+
+### → [Live app](https://sakibthenoobcoder.github.io/Dr.-Software-Prescription-Generator-/)
