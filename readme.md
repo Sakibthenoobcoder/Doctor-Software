@@ -2,6 +2,8 @@
 
 A Revolutionary App, Speacially builted for doctors for their Automation in presciption Writing
 
+This Website is Builded and Edited by Sakib Bin Rofik of DRMC
+
 Current features of this website is:-
 
 1. Store Patient Info
